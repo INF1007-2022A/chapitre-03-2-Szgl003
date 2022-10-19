@@ -62,3 +62,4 @@ if __name__ == "__main__":
 	print(average([1, 4, -2, 10]))
 	print(bills(137))
 	print(format_base(42, 16, "0123456789ABCDEF"))
+
